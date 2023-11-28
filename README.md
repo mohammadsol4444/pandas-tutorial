@@ -1,2 +1,2 @@
 # pandas-tutorial
- the numpy document that i have provided to helop you learn numpy liberary
+ the pandas document that i have provided to help you learn pandas liberary
